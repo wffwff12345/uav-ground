@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: uav-ground
+server:
+  port: 8081
+socket:
+  ip: 192.168.1.10
+  port: 8235
+webSocket:
+  url: ws://223.112.179.125:29031/
+
+
+
